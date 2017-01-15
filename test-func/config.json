@@ -1,0 +1,7 @@
+{
+	"region": "us-west-2",
+	"profile": "default",
+	"function" : "myInCall",
+	"resultFile" : "result.txt",
+	"callCount" : 200
+}
